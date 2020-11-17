@@ -3,4 +3,5 @@ hacer un pull request para colaborar en el proyecto y luego actualizar el proyec
 xD
 
 
-Al momento haciendo cambios para proceder al push
+Al momento haciendo cambios para proceder al push.
+Necesitas actualizar el repo forkeado.
